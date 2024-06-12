@@ -1,6 +1,6 @@
-package com.example.Ktragiuaki;
+package com.example.Ktragiuaki.Controller;
 
-import com.example.Ktragiuaki.model.Book;
+import com.example.Ktragiuaki.Model.*;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;

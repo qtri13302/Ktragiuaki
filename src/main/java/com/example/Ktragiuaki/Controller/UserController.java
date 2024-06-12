@@ -1,6 +1,6 @@
 package com.example.Ktragiuaki.Controller;
 
-import com.example.Ktragiuaki.model.User;
+import com.example.Ktragiuaki.Model.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Controller;
